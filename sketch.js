@@ -10,7 +10,7 @@ var word;
 let frameCount = 0;
 
 function preload(){
-  img = loadImage('image.jpg');  //image file name
+  img = loadImage('image.jpg');  //replace image file name
 }
 
 function setup() {
